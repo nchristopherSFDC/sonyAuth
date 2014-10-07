@@ -1,0 +1,22 @@
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-gen/com/phonegap/helloworld/R.java \
+ : /Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable/icon.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable-land-hdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable-land-ldpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable-land-mdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable-land-xhdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable-port-hdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable-port-ldpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable-port-mdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/drawable-port-xhdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/values/strings.xml \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/res/xml/config.xml \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable/icon.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable-land-hdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable-land-ldpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable-land-mdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable-land-xhdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable-port-hdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable-port-ldpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable-port-mdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/res/drawable-port-xhdpi/screen.png \
+/Users/nimilchristopher-mp/Documents/sonyOAuth/salesforceAuth/platforms/android/ant-build/AndroidManifest.xml \
